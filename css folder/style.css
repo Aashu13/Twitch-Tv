@@ -69,6 +69,12 @@ button {
   box-shadow: 2px 2px 4px 5px #ddd;
 }
 
+#Container_2:hover,
+#container_1:hover {
+  box-shadow: none;
+  transition: 1s;
+}
+
 p {
   color: red;
 }
