@@ -1,0 +1,98 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border-size: border-box;
+}
+
+.btn_Container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  width: 30%;
+  height: 40px;
+  font-size: 15px;
+  border: none;
+  background: transparent;
+  border: 2px solid #000;
+}
+
+#heading {
+  font-size: 60px;
+  color: #722872;
+  text-align: center;
+  text-shadow: 7px 13px 13px 19px #ddd;
+}
+
+.wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+#container {
+  width: 50%;
+  margin: auto;
+  display: inline-block;
+  position: relative;
+  top: 40px;
+}
+
+#container_1 {
+  width: 30%;
+  margin: 10px 10px;
+  display: inline-block;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  padding: 10px 0;
+  box-shadow: 2px 2px 4px 5px #ddd;
+}
+
+#container2 {
+  width: 50%;
+  margin: auto;
+  position: relative;
+  top: 50px;
+  text-align: center;
+}
+
+#Container_2 {
+  border: 2px solid #ddd;
+  width: 30%;
+  display: inline-block;
+  margin: 10px 10px;
+  border-radius: 10px;
+  padding: 10px 0;
+  box-shadow: 2px 2px 4px 5px #ddd;
+}
+
+p {
+  color: red;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+span {
+  font-size: 10px;
+  color: green;
+}
+
+img {
+  width: 100px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 2px 5px #ddd;
+  transition: 1s;
+}
+
+img:hover {
+  box-shadow: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
