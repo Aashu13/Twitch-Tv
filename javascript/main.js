@@ -5,7 +5,6 @@ $(document).ready(function() {
     "cretetion",
     "freecodecamp",
     "storbeck",
-    "habathcx",
     "RobotCaleb",
     "noobs2ninjas"
   ];
